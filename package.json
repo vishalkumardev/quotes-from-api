@@ -1,0 +1,11 @@
+{
+  "name": "quotes",
+  "version": "1.0.0",
+  "description": "This is a first api project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishal kumar kushwaha",
+  "license": "ISC"
+}
